@@ -107,36 +107,7 @@ function register_gojek() {
     }
 
 }
-
-```````         ``````        `````    ``````      ``````     `````
-           
-echo           /NMMMMMMMMMMs  -mMMMMMMMMMMh`.dMMMMMMMMMMMMMMMMMMN:/NMMMMMMMMMmMMMMMMMMN+
-echo          .NMMMMMMMMMMMM: dMMMMMMMMMMMMshMMMMMMMMMMMMMMMMMMMMNNMMMMMMMMMMMMMMMMMMMMM-
-echo          +MMMMMMMMMMMMMh:MMMMMMMMMMMMMNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMy
-echo          sMMMM+++++dMMMMhMMMMo++++hMMMMMMMMs+++mMMMMd++++NMMMMMMN++++mMMMMMs+++mMMMN`
-echo          sMMMM     /MMMMMMMMd     oMMMMMMMN    +MMMMN.   sMMMMMM+   -MMMMMN    +MMMM+
-echo          sMMMM     `NMMMMMMM+     oMMMMMMMs    `MMMMMy   .NMMMMN`   hMMMMMs    `MMMMd
-echo          sMMMM      sMMMMMMM`     oMMMMMMM.     yMMMMM-   sMMMMo   :MMMMMM.     yMMMM-
-echo          sMMMM      -MMMMMMh      oMMMMMMh      :MMMMMh   .MMMN`   mMMMMMh      :MMMMy
-echo          sMMMM   .   mMMMMM:  .   oMMMMMM/   /   mMMMMM:   sMMo   +MMMMMM/   /   mMMMN`
-echo          sMMMM   :.  +MMMMN   o   oMMMMMN   :d   +MMMMMm   .MN`  `NMMMMMN   :d   +MMMM+
-echo          sMMMM   :s  `MMMMs  `h   oMMMMMs   yM.  `MMMMMM+   so   oMMMMMMs   yM.  `MMMMm
-echo          sMMMM   -N   hMMM.  +h   oMMMMM.  `NMo   yMMMMMN`  .`  .NMMMMMM.  `NMo   yMMMM-
-echo
-echo          sMMMM   .Mh   NM+  -My   oMMMM/   hMMM-   mMMMMMN.    -MMMMMMM/   hMMM-   mMMMN`
-echo          sMMMM   `MM.  sN`  yMs   oMMMN`  `hddd+   +MMMMMMy    hMMMMMMN`  `hddd+   +MMMM+
-echo          sMMMM   `MMo  -y  `NMo   oMMMs    ````    `NMMMMMN    MMMMMMMs    ````    `NMMMm
-echo          sMMMM    MMm   .  +MMo   oMMM.             yMMMMMN    MMMMMMM.             yMMMM-
-echo          sMMMM    MMM:     dMMo   oMMh   `------.   -MMMMMN    MMMMMMh   `------.   -MMMMy
-echo          sMMMM    MMMy    -MMMo   oMM/   oNNNNNNN`   mMMMMN    MMMMMM/   oNNNNNNN`   mMMMN`
-echo          sMMMM    MMMN`   sMMMo   oMN`   mMMMMMMM/   +MMMMN    MMMMMN`   mMMMMMMM/   +MMMM+
-echo          sMMMM    MMMM+  `NMMMo   oMs   -MMMMMMMMh   `NMMMN    MMMMMs   -MMMMMMMMh   `NMMMd
-echo          sMMMM++++MMMMm++sMMMMh+++hMs+++hMMMMMMMMM++++mMMMN++++MMMMMs+++hMMMMMMMMM++++mMMMN
-echo
-echo
-echo
-echo            -ydmmmmdy/ymmmmdo+dmmmmmmmmmmmh/    .sdmmmmmh+ymmmmmdy:sdmmmmmh/    .sdmmmmmh/`
-echo "Nabila Tools - Gojek Register + Claim GoFood\n";
+echo "X IPS 3 Tools - Gojek Register + Claim GoFood\n";
 echo "Thanks To : Alone & Maya \n";
 register_gojek();
 
